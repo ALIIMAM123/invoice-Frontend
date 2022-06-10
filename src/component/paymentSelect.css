@@ -1,0 +1,15 @@
+.select-currency-symbol{
+    background-color: #FFFFFF;
+/* background-color: red; */
+/* height:48px; */
+font-size: 16px;
+font-family: 'Inter', sans-serif; 
+font-weight:400;
+color:#251D3A;
+border:none;
+border-radius:8px;
+}
+.currency{
+    height:48px;
+    width:100%
+}

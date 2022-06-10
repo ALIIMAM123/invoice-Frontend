@@ -1,0 +1,85 @@
+.select-file-container{
+    border: 1px dashed #DDDDDD;
+    /* width:80%; */
+    display:flex;
+    align-items: center;
+    /* justify-content: center; */
+    text-align: center;
+    /* height:66px; */
+    /* margin-left:40px; */
+    position:relative;
+    border-radius: 8px;
+    
+}
+
+
+
+input[type="file"] {
+    display: none;
+    
+   
+}
+
+.custom-file-upload {
+    /* border: 1px solid #ccc; */
+    /* display: inline-block; */
+    /* padding: 6px 12px; */
+    cursor: pointer;
+    /* width:150px;; */
+    /* height:34px; */
+    color:#888888;
+    font-size: 14px;
+    /* margin-left: 10px; */
+    display:flex;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+
+    
+}
+ .invoice-from-container{
+    text-decoration: none;
+    /* margin-left:10px; */
+    color:red;
+    
+}
+
+.file-icons{
+    height:16.5px;
+    width:17px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 15px;
+}
+.important-remark{
+    color:red;
+    text-decoration: none;
+}
+
+.invoice-input-element{
+    /* width:80%; */
+    /* height:45px; */
+    border:none;
+    outline: none;
+    position:absolute;
+}
+
+#invoice_from{
+    /* width:80%; */
+    height:45px;
+    border:none;
+    outline: none;
+}
+.custom-file-upload{
+    position: relative;
+}
+
+#input-hide{
+    position:absolute;
+    top:5px
+
+}
+
+
+

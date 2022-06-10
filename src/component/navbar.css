@@ -1,0 +1,27 @@
+.navbar-container{
+  height: 72px;
+  /* width:1080px; */
+  /* background-color: black; */
+  
+
+  
+}
+.leftsideNav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;height:70px
+}
+.upgrade-button{
+  width:146px;
+  height:40px;
+  background-color: #36AE7C;
+  color:#FFFFFF;
+  font-weight: 400;
+  font-size: 16px;
+  border:none;
+  border-radius:8px;
+  font-family: 'Inter', sans-serif;
+  
+}
+

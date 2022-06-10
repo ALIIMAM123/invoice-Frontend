@@ -1,0 +1,11 @@
+.invoice-box-container{
+    width:100%;
+}
+.invoice-number-input-select{
+    width:100%;
+    height:48px;
+    border: 1px dashed #DDDDDD;
+}
+.invoice-no-heading{
+    width:143px;
+}

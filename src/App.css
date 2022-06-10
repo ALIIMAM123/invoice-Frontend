@@ -1,0 +1,133 @@
+
+/* font-family: 'Inter', sans-serif; */
+/* font-family: 'Oswald', sans-serif; */
+
+.App{
+height:100vh;
+}
+
+.myNav{
+  background-color: #FFFFFF;
+}
+
+.container{
+    /* width:1080px; */
+    /* height:100vh; */
+    /* background-color: grey; */
+    
+}
+
+
+.form-and-invoice-download-wrapper{
+  background-color: #F2F2F2;
+  height:100vh;
+
+  
+}
+.form-container{
+  /* background-color: #cacccb; */
+  /* height:70vh */
+  background-color: #FFFFFF;
+}
+.invoice-download-container{
+  background-color: #9ff79f;
+  /* height:40vh; */
+  /* margin-top:190px; */
+}
+
+.left-half-invoice-form{
+    /* background-color: #cafcf7; */
+ }
+ 
+ .right-half-invoice-form{
+ /* background-color: #e5f0f8; */
+ /* height:60vh; */
+ }
+ 
+ .left-half-invoice-form {
+   display:"flex";
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   /* text-align: center; */
+ }
+
+ .rate-and-amount-quantity-container{
+   background-color: #F2F2F2;
+   height:56px;
+ }
+
+ .item-container{
+   display:flex;
+   align-items: center;
+   justify-content: flex-start;
+ 
+ }
+
+ .item__rate__amount___container{
+ background-color: #F2F2F2;
+ }
+
+ .item-heading{
+   font-size:14px;
+   font-family: 'Inter', sans-serif;
+   font-weight: 600px;
+
+   /* margin-left: 15px; */
+ }
+ .rate-details-container{
+   display:flex;
+   justify-content: space-between;
+ }
+ .rate-and-amount-quantity-container{
+  /* display:flex;
+  justify-self: flex-end; */
+ }
+ .quantity{
+  display:flex;
+  justify-self: flex-end;
+ }
+ 
+ /*            ............ */
+ 
+ .bg-container-first{
+  /* padding-left:220px; */
+  /* padding-right:220px; */
+  /* margin-left:120px; */
+ }
+ .bg-container{
+  background-color: #F2F2F2;
+  height:100vh;
+  width:100%;
+ }
+ .mywhitediv{
+   background-color: white;
+   height:100vh;
+ } 
+
+ .leftyy11{
+   background-color: red;
+ }
+ .rightyy12{
+  background-color: blue;
+}
+.invoice-download {
+  background-color: #9ff79f;
+  /* margin-left: 0px; */
+}
+.invoice-text{
+  text-align: right;
+}
+
+
+.horizontal-line{
+  height:3px;
+  width:100%;
+  color:1px solid #F2F2F2;
+  margin-top:30px;
+}
+.currency-symbol{
+  font-size:12px;
+   font-family: 'Inter', sans-serif;
+   font-weight: 400px;
+}

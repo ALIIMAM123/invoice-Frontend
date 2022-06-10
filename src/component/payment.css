@@ -1,0 +1,51 @@
+.invoice-box-container{
+    /* background-color: red; */
+    /* height:48px; */
+    /* width:220px; */
+    width:100%;
+
+}
+
+
+.invoice-no-container{
+    display:flex;
+    /* background-color: red; */
+    justify-content: flex-end;
+    text-align: center;
+    /* width:100%; */
+   
+}
+.invoice-no-heading{
+    font-size: 14px;
+    color:#888888;
+    font-family: 'Inter', sans-serif; 
+    font-weight: 400;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-right: 12px;
+}
+.hash-container{
+   height:48px;width:48px;
+   border: 1px dashed #DDDDDD;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   background-color: #F2F2F2;
+  
+}
+
+.invoice-number-input{
+    height:48px; 
+    border: 1px dashed #DDDDDD;
+    outline:none;
+}
+.invoice-number-input-select{
+    width:40%;
+    height:48px;
+    border: 1px dashed #DDDDDD;
+    background-color: #ffffff;
+}
+
